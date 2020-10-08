@@ -8,3 +8,4 @@ This is a demo iOS app that shows nice UIButton Spring effect written in Swift.
 # How to use
 
 Take the whatever the lines of codes as you need.
+All you need is written in ViewController.swift
