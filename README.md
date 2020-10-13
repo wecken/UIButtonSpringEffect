@@ -6,7 +6,7 @@ This is a demo iOS app that shows nice UIButton Spring effect written in Swift.
 ![](https://storage.googleapis.com/zenn-user-upload/o1eard8e5k8z9txax9yud2um0otu)
 
 # What's great about it?
-I fine tuned the spring animation so it feels good when you press the button.
+I fine-tuned the spring animation so it feels good when you press the button.
 
 # How to use
 
